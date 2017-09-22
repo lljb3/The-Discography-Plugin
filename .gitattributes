@@ -1,0 +1,4 @@
+inc/* linguist-vendored
+lib/* linguist-vendored
+templates/* linguist-vendored
+*.css linguist-language=WordPress
